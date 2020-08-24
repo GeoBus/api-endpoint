@@ -1,4 +1,4 @@
 {
-  "endpoint": "",
-  "token": ""
+  "endpoint": "https://gateway.carris.pt/gateway/xtranpassengerapi/api/v2.9/",
+  "token": "ca493e56d7e1bffa1d95bf88559ef18687f987243926b0758051c2c4aba10721"
 }
